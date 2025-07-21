@@ -16,13 +16,11 @@ A Python script to scrape currency exchange rates from [https://humo.tj/](https:
 ## Installation
 
 Install dependencies via:
-
-```bash
 pip install -r requirements.txt
 
 Usage
 Run the script with:
-python huno.py
+python humo.py
 
 Requirements
 Python 3.6+
